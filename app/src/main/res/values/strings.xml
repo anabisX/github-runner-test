@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GitHub Runner Test</string>
+    <string name="section_build">Build environment</string>
+    <string name="section_runtime">Runtime environment</string>
+    <string name="show_runtime_information">Show runtime information</string>
+    <string name="show_build_information">Show build information</string>
 </resources>
